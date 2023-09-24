@@ -14,7 +14,7 @@ const Education = () => {
                 <h3 class="mb-0">Syiah Kuala University</h3>
                 <div class="subheading mb-3">Bachelor of Electrical Engineering</div>
                 <div>Electric Power Engineering</div>
-                <p>GPA: 3.39</p>
+                <p>GPA: 3.4</p>
               </div>
               <div class="flex-shrink-0">
                 <span class="text-primary">August 2019 - September 2023</span>

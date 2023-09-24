@@ -1,11 +1,12 @@
-import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+// import React, {useEffect, useState} from "react";
+import { BrowserRouter, Route, Routes} from "react-router-dom";
 import Projects from "./pages/Projects";
 import Education from "./pages/Education";
 import Experience from "./pages/Experience";
 import Home from "./pages/Home";
 import Interest from "./pages/Interest";
 import Skills from "./pages/Skills";
+
 const App = () => {
   return (
     <>
