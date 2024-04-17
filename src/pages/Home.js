@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../components/Header";
+import { Analytics } from "@vercel/analytics/react";
 import "animate.css";
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
     <>
       <div class="container-fluid p-0">
         <Header />
+        <Analytics />
         <section class="resume-section animate__animated animate__fadeInDown" id="about">
           <div class="resume-section-content">
             <h1 class="mb-0">
