@@ -17,7 +17,7 @@ const Education = () => {
                 <p>GPA: 3.41 out of 4.00</p>
               </div>
               <div class="flex-shrink-0">
-                <span class="text-primary">August 2019 - September 2023</span>
+                <span class="text-primary">August 2019 - November 2023</span>
               </div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">

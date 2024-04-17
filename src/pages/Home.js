@@ -14,15 +14,13 @@ const Home = () => {
               <span class="text-primary"> Basyair</span>
             </h1>
             <div class="subheading mb-5">
-              Desa Miruk · Ulee Kareng, Banda Aceh
-              {/* <a href="mailto:basyair.fathul@email.com">basyair.fathul@email.com</a> */}
+              Tanjong · Ingin Jaya, Aceh Besar
+              {/* <a href="mailto:@email.com">@email.com</a> */}
             </div>
             <p class="lead mb-5">
-            I am an Electrical Engineering graduate from Syiah Kuala University, specializing in Power System Engineering. 
-            I have a deep interest in designing systems on distribution networks with the internet of things as well as using fuzzy logic methods. 
-            I have a good understanding of power distribution, transmission, and electrical equipment. 
-            I also have IT skills such as understanding C++, Python, and JavaScript programming. 
-            I am very enthusiastic to contribute to the development of an efficient and more modern power system.
+            I am a Syiah Kuala University Electrical Engineering graduate with a focus on Electrical Power System Engineering. I am particularly interested in creating systems for distribution networks using the internet of things and fuzzy logic methods. 
+            I am expert in power distribution, transmission, and electrical equipment. I also have IT talents, such as programming in C++, Python, and JavaScript. 
+            I am really excited to contribute to the advancement of a more efficient and contemporary electricity grid.
             </p>
             <div class="social-icons">
               <a class="social-icon" href="https://www.linkedin.com/in/fathul-basyair07/">
@@ -47,32 +45,65 @@ const Home = () => {
             <h2 class="mb-5">Experience</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
-                <h3 class="mb-0">Laboratory Asistant</h3>
-                <div class="subheading mb-3">
-                  Electric Motor · System Generator · C (Programming Languages) · Solar PV · PLTS · Renewable Energy
+                <h4 class="mb-0">Project Manager Asistant, Design of Temperature and Humidity Control System at 20 kV Distribution Substation Cubicle With Fuzzy Logic Method - MBKM USK Unggul</h4>
+                <div class="lead mb-8">
+                  <b>·</b> Collaborated with PT PLN (Persero) UP2D Aceh to enchance the efficiency and relability of 20 kV switchgear using fuzzy logic <br />
+                  <b>·</b> Successfully developed a novel control system to keep the humidity of 20 kV switchgear in electricity distribution Substation below 80% which may save up to 45% of electric power savings once switchgear heaters are used.
                 </div>
                 <p>
                   
                 </p>
               </div>
               <div class="flex-shrink-0">
-                <span class="text-primary">August 2021 - Present</span>
+                <span class="text-primary">Feb 2023 - Sep 2023(6 months)</span>
               </div>
             </div>
+            
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
-                <h3 class="mb-0">Research Asistant</h3>
-                <div class="subheading mb-3">
-                  Microcontroller · Python (Programming Languages) · Arduino · Microsoft Office
+                <h4 class="mb-0">Chairman, Automatic Watering Plant - Student Organization Capacity Building Program (PPK Ormawa) 2022, DIKTI.</h4>
+                <div class="lead mb-8">
+                  <b>·</b> Create a watering system for chili plants that is connected with renewable energy sources and the Internet of Things.
+                  <b>·</b> It can water itself and be managed remotely via a webpage.
+                  <b>·</b> As a leader, I coordinated the team and designed the prototype concept.
                 </div>
                 <p>
-                  
                 </p>
               </div>
+
               <div class="flex-shrink-0">
-                <span class="text-primary">July 2021 - October 2021</span>
+                <span class="text-primary">Aug 2022 - Dec 2022 (4 months)</span>
               </div>
             </div>
+            
+            <div class="d-flex flex-column flex-md-row justify-content-between">
+              <div class="flex-grow-1">
+                <h3 class="mb-0">Recovery Switchgear Medium Voltage Intern</h3>
+                <div class="subheading mb-3">Recovery Switchgear</div>
+                <div class="lead mb-8">
+                  <b>·</b> Working together and inspecting the conditions of 20 kV switchgear at distribution substations in Aceh, such as checking for corona and cleaning.
+                  <b>·</b> One of the Engineer teams working in the substation's repair and restoration of 20 kV switchgear
+                </div>
+              </div>
+              <div class="flex-shrink-0">
+                <span class="text-primary">Feb 2022 - Jul 2022 (6 months)</span>
+              </div>
+            </div>
+
+            <div class="d-flex flex-column flex-md-row justify-content-between">
+              <div class="flex-grow-1">
+                <h3 class="mb-0">Laboratory Asistant, Electrical Power System Laboratory</h3>
+                <div class="lead mb-8">
+                  <b>·</b> Helper teach students how to use high voltage lab equipment.
+                  <b>·</b> Helper teach students how to install electrical installations for 1-story and 2-story houses.
+                  <b>·</b> Working together in a team to develop renewable electrical energy from solar power systems.
+                </div>
+              </div>
+              <div class="flex-shrink-0">
+                <span class="text-primary">Aug 2021 - Nov 2023 (2 years and 3 months)</span>
+              </div>
+            </div>
+
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
                 <h3 class="mb-0">Robotics Electrical Engineering Community (KROENG USK)</h3>
@@ -81,22 +112,12 @@ const Home = () => {
                   Leader of Robotics Electrical Engineering Community Syiah Kuala University for the period 2022
                 </p>
               </div>
+
               <div class="flex-shrink-0">
                 <span class="text-primary">February 2022 - April 2023</span>
               </div>
             </div>
-            <div class="d-flex flex-column flex-md-row justify-content-between">
-              <div class="flex-grow-1">
-                <h3 class="mb-0">Recovery Switchgear Medium Voltage Intern</h3>
-                <div class="subheading mb-3">Recovery Switchgear</div>
-                <p>
-                  Maintenance of switchgear at substations owned by PT.PLN (Persero) UP2D Aceh
-                </p>
-              </div>
-              <div class="flex-shrink-0">
-                <span class="text-primary">February 2022 - Juni 2022</span>
-              </div>
-            </div>
+
           </div>
         </section>
         <hr class="m-0" />
@@ -112,7 +133,7 @@ const Home = () => {
                 <p>GPA: 3.41 out of 4.00</p>
               </div>
               <div class="flex-shrink-0">
-                <span class="text-primary">August 2019 - September 2023</span>
+                <span class="text-primary">August 2019 - November 2023</span>
               </div>
             </div>
             <div class="d-flex flex-column flex-md-row justify-content-between">
