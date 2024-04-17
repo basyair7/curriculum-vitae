@@ -1,12 +1,13 @@
 import React from "react";
 import Header from "../components/Header";
+import "animate.css";
 
 const Education = () => {
   return (
     <>
       <div class="container-fluid p-0">
         <Header />
-        <section class="resume-section" id="education">
+        <section class="resume-section animate__animated animate__fadeIn" id="education">
           <div class="resume-section-content">
             <h2 class="mb-5">Education</h2>
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">

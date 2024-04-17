@@ -36,12 +36,12 @@ const Header = () => {
               </Link>
             </li>
             <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/professionalexperience">
+              <Link class="nav-link js-scroll-trigger" to="/experience">
                 Experience
               </Link>
             </li>
             <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/organizationalexperience">
+              <Link class="nav-link js-scroll-trigger" to="/organization">
                 Organization
               </Link>
             </li>

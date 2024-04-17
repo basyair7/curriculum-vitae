@@ -1,12 +1,13 @@
 import React from "react";
 import Header from "../components/Header";
+import "animate.css";
 
 const Interest = () => {
   return (
     <>
       <div class="container-fluid p-0">
         <Header />
-        <section class="resume-section" id="interests">
+        <section class="resume-section animate__animated animate__fadeIn" id="interests">
           <div class="resume-section-content">
             <h2 class="mb-5">Interests</h2>
             <p>
