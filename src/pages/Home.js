@@ -8,9 +8,9 @@ const Home = () => {
     <>
       <div class="container-fluid p-0">
         <Header />
-        <Analytics />
         <section class="resume-section animate__animated animate__fadeInDown" id="about">
           <div class="resume-section-content">
+            <Analytics />
             <h1 class="mb-0">
               Fathul
               <span class="text-primary"> Basyair</span>
@@ -20,9 +20,9 @@ const Home = () => {
               {/* <a href="mailto:@email.com">@email.com</a> */}
             </div>
             <p class="lead mb-5">
-            I am a Syiah Kuala University Electrical Engineering graduate with a focus on Electrical Power System Engineering. I am particularly interested in creating systems for distribution networks using the internet of things and fuzzy logic methods. 
-            I am expert in power distribution, transmission, and electrical equipment. I also have IT talents, such as programming in C++, Python, and JavaScript. 
-            I am really excited to contribute to the advancement of a more efficient and contemporary electricity grid.
+              I am a Syiah Kuala University Electrical Engineering graduate with a focus on Electrical Power System Engineering. I am particularly interested in creating systems for distribution networks using the internet of things and fuzzy logic methods.
+              I am expert in power distribution, transmission, and electrical equipment. I also have IT talents, such as programming in C++, Python, and JavaScript.
+              I am really excited to contribute to the advancement of a more efficient and contemporary electricity grid.
             </p>
             <div class="social-icons">
               <a class="social-icon" href="https://www.linkedin.com/in/fathul-basyair07/">
@@ -45,7 +45,7 @@ const Home = () => {
         <section class="resume-section" id="professionalexperience">
           <div class="resume-section-content">
             <h2 class="mb-5">Professional Experience</h2>
-            
+
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
                 <h4 class="mb-0">Project Manager Asistant, Design of Temperature and Humidity Control System at 20 kV Distribution Substation Cubicle With Fuzzy Logic Method - MBKM USK Unggul</h4>
@@ -59,7 +59,7 @@ const Home = () => {
                 <span class="text-primary">Feb 2023 - Sep 2023(6 months)</span>
               </div>
             </div>
-            
+
             <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
               <div class="flex-grow-1">
                 <h4 class="mb-0">Chairman, Automatic Watering Plant - Student Organization Capacity Building Program (PPK Ormawa) 2022, DIKTI.</h4>
@@ -75,7 +75,7 @@ const Home = () => {
                 <span class="text-primary">Aug 2022 - Dec 2022 (4 months)</span>
               </div>
             </div>
-            
+
             <div class="d-flex flex-column flex-md-row justify-content-between">
               <div class="flex-grow-1">
                 <h4 class="mb-0">Recovery Switchgear Medium Voltage Intern</h4>
@@ -105,7 +105,7 @@ const Home = () => {
                 <span class="text-primary">Aug 2021 - Nov 2023 (2 years and 3 months)</span>
               </div>
             </div>
-            
+
           </div>
         </section>
         <hr class="m-0" />
@@ -343,8 +343,8 @@ const Home = () => {
           <div class="resume-section-content">
             <h2 class="mb-5">Interests</h2>
             <p>
-              Apart from my expertise in the electrical field, 
-              I also have a hobby of playing games, playing music, 
+              Apart from my expertise in the electrical field,
+              I also have a hobby of playing games, playing music,
               watching anime, and also creating programming projects.
             </p>
           </div>
@@ -359,22 +359,22 @@ const Home = () => {
                 <span class="fa-li">
                   <i class="fas fa-diagram-project text-warning"></i>
                 </span>
-                
+
               </li>
               <li>
                 <span class="fa-li">
                   <i class="fas fa-diagram-project text-warning"></i>
                 </span>
                 <a class="btn btn-primary" href="https://himatektrousk.eu.org" target="-blank">Website Himpunan Teknik Elektro USK (Electrical Engineering Student Association Website)</a>
-              </li> 
+              </li>
               <br />
-              
+
               <li>
                 <span class="fa-li">
                   <i class="fas fa-diagram-project text-warning"></i>
                 </span>
                 <a class="btn btn-primary" href="https://kroengusk.eu.org" target="-blank">Website Komunitas Robotika Teknik Elektro USK (KROENG USK)</a>
-              </li> 
+              </li>
               <br />
 
               <li>
@@ -390,7 +390,7 @@ const Home = () => {
                 </span>
                 <a class="btn btn-primary" href="https://github.com/basyair7/tempcubiclepi" target="-blank">TempCubiclePi (Temperature Cubicle Pi)</a>
               </li> <br />
-              
+
             </ul>
           </div>
         </section>
