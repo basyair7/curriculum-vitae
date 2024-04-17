@@ -7,7 +7,7 @@ const ProfessionalExperience = () => {
     <>
       <div class="container-fluid p-0">
         <Header />
-        <section class="resume-section" id="professionalexperience">
+        <section class="resume-section animate__animated animate__fadeIn" id="professionalexperience">
           <div class="resume-section-content">
             <h2 class="mb-5">Professional Experience</h2>
             
