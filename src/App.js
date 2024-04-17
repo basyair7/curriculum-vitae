@@ -2,10 +2,11 @@
 import { BrowserRouter, Route, Routes} from "react-router-dom";
 import Projects from "./pages/Projects";
 import Education from "./pages/Education";
-import Experience from "./pages/Experience";
+import ProfessionalExperience from "./pages/ProfessionalExperience";
 import Home from "./pages/Home";
 import Interest from "./pages/Interest";
 import Skills from "./pages/Skills";
+import OrganizationalExperience from "./pages/OrganizationalExperience";
 
 const App = () => {
   return (
@@ -13,7 +14,8 @@ const App = () => {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/experience" element={<Experience />} />
+          <Route path="/professionalexperience" element={<ProfessionalExperience />} />
+          <Route path="/organizationalexperience" element={<OrganizationalExperience />} />
           <Route path="/education" element={<Education />} />
           <Route path="/skills" element={<Skills />} />
           <Route path="/interests" element={<Interest />} />
