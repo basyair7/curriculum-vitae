@@ -42,8 +42,7 @@ const ProfessionalExperience = () => {
             
             <div class="d-flex flex-column flex-md-row justify-content-between">
               <div class="flex-grow-1">
-                <h4 class="mb-0">Recovery Switchgear Medium Voltage Intern</h4>
-                <div class="subheading mb-2">Recovery Switchgear</div>
+                <h4 class="mb-0">Recovery Switchgear Medium Voltage Intern - PT. PLN (Persero) UP2D Aceh</h4>
                 <div class="lead mb-8">
                   <b>·</b> Working together and inspecting the conditions of 20 kV switchgear at distribution substations in Aceh, such as checking for corona and cleaning.<br />
                   <b>·</b> One of the Engineer teams working in the substation's repair and restoration of 20 kV switchgear. <br />
