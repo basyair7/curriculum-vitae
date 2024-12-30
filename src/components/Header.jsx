@@ -32,6 +32,9 @@ const Header = () => {
                         <a className="nav-link js-scroll-trigger" href="#about">About</a>
                     </li>
                     <li className="nav-item">
+                        <a className="nav-link js-scroll-trigger" href="#experience">Experience</a>
+                    </li>
+                    <li className="nav-item">
                         <a className="nav-link js-scroll-trigger" href="#organization">Organization</a>
                     </li>
                     <li className="nav-item">

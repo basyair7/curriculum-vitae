@@ -21,7 +21,7 @@ const Home = () => {
             </section>
             <hr className="m-0" />
 
-            <section className="resume-section" id="professionalexperience">
+            <section className="resume-section" id="experience">
                 <ProfessionalExperienceData />
             </section>
             <hr className="m-0" />
