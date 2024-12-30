@@ -13,7 +13,7 @@ const ProfessionalExperienceData = () => {
                         <b>·</b> Collaborated with PT. PLN (Persero) UP2D Aceh to enchance the efficiency and relability of 20 kV switchgear using fuzzy logic. <br />
                         <b>·</b> Successfully developed a novel control system to keep the humidity of 20 kV switchgear in Electricity Distribution Substation below 80% which may save up to 45% of electric power savings once switchgear heaters are used.
                     </div>
-                    <p></p>
+                    <p><br /></p>
                 </div>
                 <div className="flex-shrink-0">
                     <span className="text-primary">Feb 2023 - Sep 2023(7 months)</span>
