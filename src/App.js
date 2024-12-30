@@ -1,5 +1,6 @@
 // import React, {useEffect, useState} from "react";
-import { BrowserRouter, Route, Routes} from "react-router-dom";
+import { useEffect } from "react";
+import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import Projects from "./pages/Projects";
 import Education from "./pages/Education";
 import ProfessionalExperience from "./pages/ProfessionalExperience";
@@ -8,10 +9,26 @@ import Interest from "./pages/Interest";
 import Skills from "./pages/Skills";
 import OrganizationalExperience from "./pages/OrganizationalExperience";
 
+const ScrollToTop = () => {
+  const { pathname, hash } = useLocation();
+
+  useEffect(() => {
+    if (hash) {
+      const element = document.querySelector(hash);
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  }, [pathname, hash]);
+
+  return null;
+};
+
 const App = () => {
   return (
     <>
       <BrowserRouter>
+        <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/experience" element={<ProfessionalExperience />} />
