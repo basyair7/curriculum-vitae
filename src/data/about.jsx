@@ -16,7 +16,7 @@ const AboutData = () => {
                 I am really excited to contribute to the advancement of a more efficient and contemporary electricity grid.
             </p>
             <div className="social-icons">
-                <a href="https://www.linkedin.com/in/fathul-basyair07/" className="social-icon" target="_blank">
+                <a href="https://linkedin.com/in/fathulbasyair7" className="social-icon" target="_blank">
                     <i className="fab fa-linkedin-in"></i>
                 </a>
                 <a href="https://github.com/basyair7" className="social-icon" target="_blank">
