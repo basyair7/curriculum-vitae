@@ -5,7 +5,7 @@ const ProfessionalExperienceData = () => {
         <div className="resume-section-content">
             <h2 className="mb-5">Professional Experience</h2>
 
-            <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div className="d-flex flex-column flex-md-row justify-content-between">
                 <div className="flex-grow-1">
                     <h4 className="mb-0">Project Manager Asistant, Design of Temperature and Humidity Control System at 20 kV Distribution Substation Cubicle With Fuzzy Logic Method - MBKM USK Unggul</h4>
                     <div className="lead-mb-8">
